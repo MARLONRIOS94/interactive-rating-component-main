@@ -27,11 +27,11 @@ body{
     align-items: center;
 }
 
-/* .container{
+.container{
     margin: 30px auto;
     padding: 0 30px;
     
-} */
+}
 
 .box{
     max-width: 400px;
@@ -42,11 +42,11 @@ body{
 .content-card{
     padding: 30px;
     display:inline-block;
-    justify-content:space-between;
+    justify-content:center;
 }
 
 .icon-star{
-    background-color: hsl(213, 19%, 15%);;
+    background-color:hsl(213, 19%, 28%);
     inline-size: 50px;
     block-size: 50px;
     border-radius: 50%;
@@ -75,7 +75,7 @@ body{
 }
 
 .numbers p{    
-    background-color: hsl(213, 19%, 15%);
+    background-color: hsl(213, 19%, 28%);;
     inline-size: 50px;
     block-size: 50px;
     border-radius: 50%;
